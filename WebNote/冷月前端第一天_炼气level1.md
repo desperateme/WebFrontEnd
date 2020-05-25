@@ -3,12 +3,11 @@
 
 ## 前端
 
-- 前端的技术就是:HTML`HyperText Markup Language` + CSS`Cascading Style Sheets` + JavaScript
-- 简单理解就是 html提供内容,CSS润色,JS润色+交互
+前端的技术就是:HTML`HyperText Markup Language` + CSS`Cascading Style Sheets` + JavaScript,简单理解就是 html提供内容,CSS润色,JS润色+交互
 
 ## 后端
-虽然后端不是现阶段的学习对象,但是多了解了解,万一以后有用呢?
-- 操作系统+WebServer+数据库+后端语言
+
+虽然后端不是现阶段的学习对象,但是多了解了解,万一以后有用呢? 后端基本上是操作系统+WebServer+数据库+后端语言
 - 操作系统`Linux/Unix/Windows`
 - WebServer`Apache/ISS/...`
 - 数据库`MySql/SqlServer/...`
